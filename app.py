@@ -2,7 +2,7 @@ import streamlit as st
 import whisper
 
 st.title("🎙️ বাংলা MCQ জেনারেটর")
-st.write("सहजেই মুখে বলে এমসিকিউ তৈরি করুন।")
+st.write("মুখে বলে এমসিকিউ তৈরি করুন।")
 
 # হালকা মডেল লোড করা
 @st.cache_resource
